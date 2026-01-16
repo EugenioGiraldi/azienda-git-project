@@ -3,3 +3,4 @@ riga 2
 riga 3
 riga 4
 funzione calcolo totale
+questa è la quinta riga
